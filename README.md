@@ -4,7 +4,6 @@ Get haptic feedback on your Logitech MX Master
 ## Features
 
 - 🖱️ **HID++ Protocol Support** - Direct communication with Logitech MX Master 4
-- 🔔 **D-Bus Notification Monitoring** - Listens for all desktop notifications
 - 📳 **Haptic Feedback** - Provides tactile alerts
 - 🐧 **Desktop Agnostic** - Converted to work with Windows
 - 🔧 **Lightweight** - Minimal dependencies and resource usage
